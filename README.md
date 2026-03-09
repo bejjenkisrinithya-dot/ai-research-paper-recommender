@@ -10,7 +10,7 @@ This project demonstrates how **AI-based recommendation systems** can help resea
 * Displays paper titles with links
 * Clean and simple web interface
 * Backend API built using Flask
-## 🛠 Technologies Used
+##  Technologies Used
 * Python
 * Flask
 * Scikit-learn
